@@ -9,6 +9,8 @@ for(i = 0; i<=5; i++){
 
 const maindiv = React.createElement("h1", { id: "mainDiv" }, manyChild);
 
+
+console.log(maindiv )
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(maindiv);

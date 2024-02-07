@@ -1,0 +1,21 @@
+{
+  "name": "namastereactown",
+  "version": "1.0.0",
+  "description": "This is the Namaste react by kaushalendra pateriya",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/koushal-1435/Namaste-React.git)"
+  },
+  "keywords": [
+    "namaste-react"
+  ],
+  "author": "kaushalendra",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
